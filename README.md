@@ -1,5 +1,7 @@
 # ČSOB CZ payment modules
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/blabu-com/node-csobcz-gateway.svg)](https://greenkeeper.io/)
+
 [Source](https://github.com/mival/csob_gateway) |
 [Gateway documentation](https://github.com/csob/paymentgateway)
 
